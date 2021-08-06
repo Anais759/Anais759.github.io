@@ -1,0 +1,51 @@
+.guion{
+  width: 60%;
+  image-orientation: center;
+  margin: auto;
+}
+.contenedor-video{
+    position: relative;
+    padding-top:35%;
+      height: 100%;
+}
+.contenedor-video iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+
+img{
+image-orientation: center;
+margin: auto;
+display: flex;
+margin: center;
+width: 100%;
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: full-width;
+  font-size: 35px;
+  font-style: sans serif;
+  font-weight: bold;
+  line-height: 0.5;
+}
+h2 {
+  text-align: center;
+  text-transform: full-width;
+  font-size: 25px;
+  font-style: sans serif;
+  font-weight: bold;
+  line-height: 0.5;
+}
+body{
+  text-align: center;
+  text-transform: full-width;
+  font-size: 20px;
+  font-style: sans serif;
+  line-height: 0.5;
+  font-weight: normal;
+}
