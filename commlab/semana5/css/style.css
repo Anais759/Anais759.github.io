@@ -1,0 +1,256 @@
+.principak{
+align-items: center;
+float: none;
+}
+.titulocompleto h1{
+align-items: center;
+margin-top: 900px;
+}
+
+.hola{
+  float: left;
+  margin-left: 0;
+  padding: 0;
+  align-items: flex-start;
+}
+
+.imagenes1 {
+  float: right;
+  display: table-cell;
+  margin-top: 180px;
+  margin-bottom: 200px;
+  margin-left: 0%;
+}
+
+.imagenes1 p{
+  margin-top: 20px;
+  margin-bottom: 70px;
+  margin-left: 8%;
+  margin-right: 10%;
+  font-size: 20px;
+}
+
+.imagenes1 h3{
+  margin-top: 70px;
+  margin-left: 5%;
+  font-size: 27px;
+}
+
+.imagenes1 ul li figcaption{
+  display: none;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  bottom: 5px;
+  right: 5px;
+  background: rgba(0,0,0,.0);
+  text-align: center;
+  padding: 13px;
+  border-radius: 0px;
+ border-color:inherit;
+ border-style:inherit;
+}
+
+.imagenesletras{
+  margin-bottom: 70px;
+  display: block;
+}
+.imagenesletras2{
+  margin-bottom: 70px;
+  display: block;
+  margin-left: 100px;
+}
+.imagenesletras3 hr{
+
+  display: block;
+  margin-left:0px;
+}
+.textos{
+  width: 700px;
+  height: 100px;
+  display: inline-block;
+  margin-top: 90px;
+
+}
+
+.textos2{
+  width: 550px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  float: left;
+  margin-top: 300px;
+  margin-bottom: : 200px;
+}
+.textos3{
+  position: relative;
+  float:none;
+  margin-top: 300px;
+  margin-bottom: : 1300px;
+}
+.textos4{
+
+  height: 100px;
+  width: 550px;
+  float: left;
+  margin-top: 0px;
+  display: inline-block;
+  margin-left: 7%;
+}
+
+.textos5  ul li figure{
+  padding: 5px;
+  position: relative;
+  align-items: center;
+}
+.textos5  ul li figcaption{
+  margin-top: 0px;
+  margin: 20;
+  top: 5px;
+  left: 5px;
+  bottom: 5px;
+  right: 5px;
+  background: rgba(255,255,255,.85);
+  text-align: center;
+  padding: 50px;
+  border-radius: 0px;
+  color: grey;
+}
+.centrar-imagenes{
+  margin-top: 400px;
+  margin-bottom: 50px;
+  align: center;
+  margin-left: 20%;
+}
+
+.centrar-imagenes ul{
+  margin-top: 400px;
+  margin-bottom: 50px;
+  margin-left: 0;
+  align: center;
+  display: list-item;
+}
+.esquemas-3{
+  float: left;
+  margin-top: 600px;
+  margin-bottom: 50px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.contenido{
+    display: block;
+    float: left;
+    position: relative;
+    margin: 0;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.parrafo1{
+  text-align: left;
+  font-family: 'Homemade Apple';
+  font-size: 16px;
+  width: 500px;
+}
+.parrafo{
+  width: 450px;
+  font-family: 'Homemade Apple';
+  font-size: 16px;
+  width: 500px;
+}
+
+.final{
+  height: 1700px;
+  weight: 100%;
+  margin-bottom:4100px;
+}
+
+p{
+  text-align: left;
+  font-family: 'Homemade Apple';
+  font-size: 16px;
+
+}
+
+
+h1{
+font-family: 'Homemade Apple', cursive;
+font-size: 30px;
+font-weight: lighter;
+text-shadow: 2px 2px 2px silver;
+text-align: left;
+padding-bottom: 0px;
+}
+
+h2{
+font-family: 'Homemade Apple', cursive;
+text-shadow: 2px 2px 2px silver;
+font-weight: lighter;
+font-size: 18px;
+color: grey;
+}
+
+h3{
+font-family: 'Homemade Apple', cursive;
+text-shadow: 2px 2px 2px silver;
+font-weight: lighter;
+color: gray;
+text-align: left;
+font-size: 20px;
+}
+
+
+body{
+  text-align: center;
+  padding: 0;
+  margin:0;
+  line-height: 1.6;
+  font-family: 'Homemade Apple', cursive;
+  margin-top: 60px;
+  margin-bottom: 200px;
+  margin-left: 7%;
+  margin-right: 8%;
+}
+
+ul,figure {
+  text-align: center;
+  padding: 0;
+  margin:0;
+  line-height: 1.6;
+  font-family: 'Homemade Apple', cursive;
+  float: left;
+}
+
+ul
+  {list-style: none;
+  display: flex;
+
+}
+
+ul li{
+  width: 48%
+}
+
+ul li figure{
+  padding: 5px;
+  position: relative;
+}
+ul li figure:hover figcaption{
+  display: block;
+}
+
+ul li figcaption{
+  display: none;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  bottom: 5px;
+  right: 5px;
+  background: rgba(255,255,255,.7);
+  text-align: center;
+  padding: 15px;
+  border-radius: 40px;
+  border-color:  silver;
+
+}
